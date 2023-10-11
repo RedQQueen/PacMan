@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    //yes
+    
     const grid = document.querySelector('.grid');
     const scoreDisplay = document.querySelector('#score')
     const width = 28;
